@@ -1,0 +1,32 @@
+{
+  "name": "ElektrTarmogiV2",
+  "label": "Elektr tarmog'i V2",
+  "type": "widget",
+  "version": "2.0.0",
+  "exbVersion": "1.16.0",
+  "author": "abdullajonov1",
+  "description": "Self-contained Elektr tarmog'i dashboard with embedded map, Utility Network Trace, layers, indicators and attribute table.",
+  "copyright": "",
+  "license": "",
+  "properties": {
+    "supportAutoSize": false
+  },
+  "translatedLocales": [
+    "en",
+    "uz",
+    "ru"
+  ],
+  "defaultSize": {
+    "width": 1920,
+    "height": 920
+  },
+  "supports": {
+    "map": true
+  },
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "supportInlineEditing": true,
+  "hasSettingPage": true,
+  "useDataSources": true
+}
