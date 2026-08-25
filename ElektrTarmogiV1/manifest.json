@@ -2,7 +2,7 @@
   "name": "ElektrTarmogiV1",
   "label": "Elektr tarmog'i V1",
   "type": "widget",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "exbVersion": "1.16.0",
   "author": "abdullajonov1",
   "description": "Self-contained Elektr tarmog'i dashboard with embedded map, Utility Network Trace, layers, indicators and attribute table.",
