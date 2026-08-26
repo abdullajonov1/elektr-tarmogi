@@ -1,0 +1,32 @@
+{
+  "name": "GazCombinedV2",
+  "label": "Gaz Combined V2",
+  "type": "widget",
+  "version": "2.0.0",
+  "exbVersion": "1.16.0",
+  "author": "abdullajonov1",
+  "description": "Self-contained Gaz dashboard with embedded map, geo layers (GTP/quduq/zulfin/quvur), search, analytics indicators, employee stats and Excel export.",
+  "copyright": "",
+  "license": "",
+  "properties": {
+    "supportAutoSize": false
+  },
+  "translatedLocales": [
+    "en",
+    "uz",
+    "ru"
+  ],
+  "defaultSize": {
+    "width": 1920,
+    "height": 920
+  },
+  "supports": {
+    "map": true
+  },
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "supportInlineEditing": true,
+  "hasSettingPage": true,
+  "useDataSources": false
+}
